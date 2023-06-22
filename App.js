@@ -2,7 +2,7 @@ import { Platform, SafeAreaView, StyleSheet } from "react-native";
 import WebView from "react-native-webview";
 
 const uri =
-  "https://jitsi.rocket.chat/RocketChat64941e2ec3b1c902672dd182#config.callDisplayName=%22asdas%20dasd%20asd%20asd%20asd%20%22&config.startWithAudioMuted=false&config.startWithVideoMuted=true&userInfo.displayName=%22Daniel%20Silva%22&config.prejoinPageEnabled=false&config.prejoinConfig.enabled=false&config.disableDeepLinking=true";
+  "https://meet.jit.si/SecularVolumesFreeEverywhere#config.callDisplayName=%22asdas%20dasd%20asd%20asd%20asd%20%22&config.startWithAudioMuted=false&config.startWithVideoMuted=true&userInfo.displayName=%22Daniel%20Silva%22&config.prejoinPageEnabled=false&config.prejoinConfig.enabled=false&config.disableDeepLinking=true";
 
 // to bypass the warning that the browser is not supported
 const userAgent =
